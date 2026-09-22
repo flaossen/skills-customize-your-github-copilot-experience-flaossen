@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "mini-game-project",
+      "title": "Mini Game Project",
+      "description": "Create a small interactive game in Python using loops, conditionals, classes, and event handling",
+      "path": "assignments/mini-game-project",
+      "dueDate": "2026-09-29",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
